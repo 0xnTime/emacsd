@@ -1,0 +1,18 @@
+# Installed packages and native-comp cache
+elpa/
+eln-cache/
+
+# Auto-saves and backups
+auto-save-list/
+backups/
+*~
+\#*\#
+.\#*
+
+# Persistent state / history
+history
+ido.last
+recentf
+smex-items
+tramp
+projects
