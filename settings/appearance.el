@@ -22,15 +22,21 @@
 ;; Set theme
 (load-theme 'default-black)
 
-;; (load-theme 'handmade)
+;;(load-theme 'handmade)
 
-;; (load-theme 'daylight)
+;;(load-theme 'daylight)
 
-;; (set-face-attribute 'default nil :font "Monaco 11")
+;; (load-theme 'ef-cyprus)
+
+(set-face-attribute 'default nil :font "Monaco 12")
 
 ;; (set-face-attribute 'default nil :font "BlexMono Nerd Font 12")
 
-(set-face-attribute 'default nil :font "Anonymous pro 11")
+;; (set-face-attribute 'default nil :font "Anonymous pro 11")
+
+;; (set-face-attribute 'default nil :font "IBM Plex Mono-12")
+
+;; (set-face-attribute 'default nil :font "Gallant12")
 
 ;; Don't beep. Just blink the modeline on errors.
 (setq ring-bell-function (lambda ()

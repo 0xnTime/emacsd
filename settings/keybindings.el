@@ -9,7 +9,10 @@
 
 (global-set-key (kbd "C-c c c") 'compile)
 
-(global-set-key (kbd "C-c c c") 'compile)
+(global-set-key (kbd "C-c C-q") 'kill-current-buffer)
+
+(global-set-key (kbd "C-c C-n") 'next-buffer)
+(global-set-key (kbd "C-c C-p") 'previous-buffer)
 
 (defun my/page-down-centered ()
   (interactive)
