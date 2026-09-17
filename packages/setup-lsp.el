@@ -8,8 +8,7 @@
 
 (use-package eglot
   :ensure nil  ;; built-in
-  :hook ((go-ts-mode         . eglot-ensure)
-         (python-ts-mode     . eglot-ensure)
+  :hook ((rust-ts-mode       . eglot-ensure)
          (typescript-ts-mode . eglot-ensure)
          (tsx-ts-mode        . eglot-ensure)
          (simpc-mode         . eglot-ensure))
