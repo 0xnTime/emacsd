@@ -24,7 +24,7 @@
 
 ;;(load-theme 'handmade)
 
-(set-face-attribute 'default nil :font "Terminus 12")
+(set-face-attribute 'default nil :font "Comic Code 12")
 
 ;; Don't beep. Just blink the modeline on errors.
 (setq ring-bell-function (lambda ()

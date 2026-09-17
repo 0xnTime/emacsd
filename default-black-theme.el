@@ -3,7 +3,7 @@
 
 (custom-theme-set-faces
  'default-black
- '(default ((t (:inherit nil :stipple nil :background "#141414" :foreground "#7f7f7f" :inverse-video nil :box nil :strike-t*hrough nil :overline nil :underline nil :slant normal :weight normal :width normal :height 105))))
+ '(default ((t (:inherit nil :stipple nil :background "#000000" :foreground "#FFFFFF" :inverse-video nil :box nil :strike-t*hrough nil :overline nil :underline nil :slant normal :weight normal :width normal :height 105))))
  '(highlight ((((class color) (min-colors 88) (background dark)) (:background "#111111"))))
  '(region ((nil (:background "#464740"))))
  '(hl-line ((nil (:background "#222222"))))

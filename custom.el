@@ -5,7 +5,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-safe-themes
-   '("87d19257eecc5c6c32f9c8740c5838a3d649946263780c45bc4a552752446e13"
+   '("ea98be9a25313392a2bfe58d997973fe586d63befdd7facf9667e56751b6c743"
+     "5918207104248d50295f37a0d4082b7e3b4ab916a449a16cb560df54f232de5f"
+     "87d19257eecc5c6c32f9c8740c5838a3d649946263780c45bc4a552752446e13"
      "d8d5ff933fb64c3bb6c50ba1dc9b8769daf0b6e0ac1516f58767b038c80ffd8e"
      "230ca704e465d3f03ba38811e67387feceb1d8f7d1a5c540e9d7eef9d48aff97"
      "10e330880269244ae45ae9e02fe6f55766da9e15036e7c7f07d7ce228195deb5"
@@ -29,7 +31,8 @@
  '(package-selected-packages
    '(auto-sudoedit avy cape consult corfu dashboard ef-themes elcord expand-region
                    flx-ido ido-completing-read+ magit marginalia
-                   multiple-cursors orderless smex vertico vterm)))
+                   multiple-cursors orderless smex tree-sitter tree-sitter-langs
+                   vertico vterm)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
