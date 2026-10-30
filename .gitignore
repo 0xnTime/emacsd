@@ -17,3 +17,5 @@ smex-items
 tramp
 projects
 transient
+# Compiled tree-sitter grammars
+tree-sitter/

@@ -21,9 +21,6 @@
 ;; Global keybindings
 (require 'keybindings)
 
-;; Whitespace handling per language mode
-(require 'setup-whitespace)
-
 ;; Load all packages
 (dolist (file (directory-files packages-dir t "^[^#].*el$"))
   (when (file-regular-p file)

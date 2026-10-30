@@ -31,8 +31,8 @@
  '(package-selected-packages
    '(auto-sudoedit avy cape consult corfu dashboard ef-themes elcord expand-region
                    flx-ido ido-completing-read+ magit marginalia
-                   multiple-cursors orderless smex tree-sitter tree-sitter-langs
-                   vertico vterm)))
+                   multiple-cursors orderless rust-mode smex tree-sitter
+                   tree-sitter-langs vertico vterm)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
